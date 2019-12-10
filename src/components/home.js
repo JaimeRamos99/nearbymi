@@ -20,9 +20,6 @@ export default class Home extends React.Component {
         </Popover>
     );
     render() {
-        //https://s1.1zoom.me/b5353/683/Fast_food_Hamburger_Vegetables_Bottle_530823_3840x2160.jpg
-        //https://wallpaperaccess.com/full/767283.jpg
-        //http://images6.fanpop.com/image/photos/39700000/Full-English-Breakfast-food-39782150-2000-1333.jpg
         return (<React.Fragment>
             <Navbar bg="light" expand="lg">
                 <Navbar.Brand href="#home">Nearby</Navbar.Brand>
